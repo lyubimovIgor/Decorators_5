@@ -1,0 +1,10 @@
+2023-04-11 18:51:03 - hello_world()
+Result: Hello World
+2023-04-11 18:51:03 - summator(2, 2)
+Result: 4
+2023-04-11 18:51:03 - div(6, 2)
+Result: 3.0
+2023-04-11 18:51:03 - summator(4.3, b=2.2)
+Result: 6.5
+2023-04-11 18:51:03 - summator(a=0, b=0)
+Result: 0
